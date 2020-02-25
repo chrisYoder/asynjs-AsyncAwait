@@ -18,3 +18,6 @@
 	- Alternative promise syntax
 	- avoids chaining .then statements
 	- allows asynchronous execution while maintaining a regular synchronous feel.
+	
+- Semantics and Evaluation
+	- an async function always 
