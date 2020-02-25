@@ -20,4 +20,7 @@
 	- allows asynchronous execution while maintaining a regular synchronous feel.
 	
 - Semantics and Evaluation
-	- an async function always 
+	- an async function always returns a promise
+	
+- Error Handling
+	- 
